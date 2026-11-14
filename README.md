@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animação de título (efeito de máquina de escrever) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=88C0D0&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Marcos+%F0%9F%91%8B;Bem-vindo+ao+meu+perfil!+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%F0%9F%93%9A)](https://github.com/MarcosMendes642)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Marcos+%F0%9F%91%8B;Bem-vindo+ao+meu+perfil!+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%F0%9F%93%9A)](https://github.com/MarcosMendes642)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
@@ -15,18 +15,18 @@
 - ⚡ Curiosidade: código bom é código que funciona *e* que dá pra ler depois 😄
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcosMendes642&theme=nord_dark" alt="Linguagens por repositório" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcosMendes642&theme=nord_dark" alt="Linguagens mais usadas" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcosMendes642&theme=nord_dark" alt="Estatísticas" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcosMendes642&theme=nord_dark&utc=-3" alt="Horários de contribuição" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcosMendes642&theme=github_dark" alt="Linguagens por repositório" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcosMendes642&theme=github_dark" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcosMendes642&theme=github_dark" alt="Estatísticas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcosMendes642&theme=github_dark&utc=-3" alt="Horários de contribuição" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MarcosMendes642&locale=pt_BR&theme=nord&hide_border=false&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MarcosMendes642&locale=pt_BR&hide_border=false&background=0D1117&border=30363D&stroke=1F6FEB&ring=1F6FEB&fire=1F6FEB&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideLabels=8B949E&sideNums=C9D1D9&dates=7D8590" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosMendes642&theme=tokyonight" alt="Resumo do perfil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosMendes642&theme=github_dark" alt="Resumo do perfil" />
 </div>
 
 ## 🛠️ Tecnologias e ferramentas
@@ -60,6 +60,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcosMendes642)
 
-<img src="https://komarev.com/ghpvc/?username=MarcosMendes642&color=88C0D0&style=for-the-badge&label=VISITAS" alt="Contador de visitas" />
+<img src="https://komarev.com/ghpvc/?username=MarcosMendes642&color=0D1117&style=for-the-badge&labelColor=30363D&label=VISITAS" alt="Contador de visitas" />
 
 </div>
