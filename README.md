@@ -15,18 +15,14 @@
 - ⚡ Curiosidade: código bom é código que funciona *e* que dá pra ler depois 😄
 
 <div align="center">
-  <a href="https://github.com/MarcosMendes642">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosMendes642&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMendes642&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcosMendes642&theme=tokyonight" alt="Linguagens por repositório" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcosMendes642&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcosMendes642&theme=tokyonight" alt="Estatísticas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcosMendes642&theme=tokyonight&utc=-3" alt="Horários de contribuição" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MarcosMendes642&locale=pt_BR&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcosMendes642&theme=tokyonight&no-frame=false&no-usr=true&margin-w=8" alt="Troféus" />
 </div>
 
 <div align="center">
