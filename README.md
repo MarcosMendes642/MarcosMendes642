@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🌱 Atualmente aprendendo **desenvolvimento de software**
+- 📚 Atualmente aprendendo **desenvolvimento de software**
 - 🔭 Trabalhando em projetos pessoais e estudando todos os dias
 - 💬 Pergunte-me sobre **tecnologia, programação e projetos**
 - ⚡ Curiosidade: código bom é código que funciona *e* que dá pra ler depois 😄
